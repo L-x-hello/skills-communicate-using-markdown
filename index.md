@@ -9,3 +9,7 @@ var myVar = "Hello, world!";
 ``` python
 print("hello world"")
 ```
+- [x] head title
+- [x] image
+- [x] add code-example
+- [x] add task list
